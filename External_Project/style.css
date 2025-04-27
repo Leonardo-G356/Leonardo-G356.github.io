@@ -252,12 +252,13 @@ footer p {
     margin: 0;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1850px) {
     .hero {
         display: block;
     }
 
     .hero img {
+        display: block;
         margin-left: 0;
     }
 }
